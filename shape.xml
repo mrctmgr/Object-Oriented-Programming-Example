@@ -1,0 +1,316 @@
+<Shape>
+	<Triangle>
+		<Reguarity>>I sometimes amaze myself.</Regularity>
+</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Reguarity>>I sometimes amaze myself.</Regularity>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Reguarity>I sometimes amaze myself.</Regularity>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Reguarity> >I sometimes amaze myself. </Regularity>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Reguarity> >I sometimes amaze myself.	</Regularity>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Reguarity>>I sometimes amaze myself.	</Regularity>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		< Reguarity>I sometimes amaze myself. </Regularity>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Reguarity> I sometimes amaze myself. </Regularity>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Reguarity>  </Regularity>
+I sometimes amaze myself.	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Reguarity>  </Regularity>
+I sometimes amaze myself.	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Reguarity>  </Regularity>
+I sometimes amaze myself.	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Reguarity> I sometimes amaze myself. </Regularity>
+	</Triangle>
+</Shape>
+<Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Regularity> 0 </Regularity>
+		<Circumfalence> 18 </Circumfalence>
+		<Area> 3.847500 </Area>
+	</Triangle>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Regularity> 1 </Regularity>
+		<Circumfalence> 108 </Circumfalence>
+		<Area> 554.039978 </Area>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Regularity> 1 </Regularity>
+		<Circumfalence> 12 </Circumfalence>
+		<Area> 6.840000 </Area>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Regularity> 1 </Regularity>
+		<Circumfalence> 102 </Circumfalence>
+		<Area> 494.190002 </Area>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Regularity> 0 </Regularity>
+		<Circumfalence> 12 </Circumfalence>
+		<Area> 3.847500 </Area>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<3 4 5> 3 </Lenght>
+		<Regularity> 0 </Regularity>
+		<Circumfalence> 12 </Circumfalence>
+		<Area> 3.847500 </Area>
+	</Triangle>
+</Shape>
+
+<Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Lengths> 3 3 3 </Lengths>
+		<Regularity> 1 </Regularity>
+		<Circumfalence> 9 </Circumfalence>
+		<Area> 3.847500 </Area>
+	</Triangle>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Lengths> 3 5 5 </Lengths>
+		<Regularity> 0 </Regularity>
+		<Circumfalence> 13 </Circumfalence>
+		<Area> 3.847500 </Area>
+	</Triangle>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Lengths> 4 4 4 </Lengths>
+		<Regularity> 1 </Regularity>
+		<Circumfalence> 12 </Circumfalence>
+		<Area> 6.840000 </Area>
+	</Triangle>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Lengths> 4 4 4 </Lengths>
+		<Regularity> 1 </Regularity>
+		<Circumfalence> 12 </Circumfalence>
+		<Area> 6.840000 </Area>
+	</Triangle>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Lengths> 4 5 6 </Lengths>
+		<Regularity> 0 </Regularity>
+		<Circumfalence> 15 </Circumfalence>
+		<Area> 6.840000 </Area>
+	</Triangle>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Lengths> 3 4 5 </Lengths>
+		<Regularity> 0 </Regularity>
+		<Circumfalence> 12 </Circumfalence>
+		<Area> 3.847500 </Area>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Lengths> 4 4 4 </Lengths>
+		<Regularity> 1 </Regularity>
+		<Circumfalence> 12 </Circumfalence>
+		<Area> 6.840000 </Area>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Lengths> 4 4 4 </Lengths>
+		<Regularity> 1 </Regularity>
+		<Circumfalence> 12 </Circumfalence>
+		<Area> 6.840000 </Area>
+	</Triangle>
+	<Quad>
+	<Quad>
+	<Quad>
+	<Quad>
+	<Quad>
+	<Quad>
+	<Quad>
+</Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Lengths> 4 5 6 </Lengths>
+		<Regularity> 0 </Regularity>
+		<Circumfalence> 15 </Circumfalence>
+		<Area> 6.840000 </Area>
+	</Triangle>
+	<Quad>
+		<Side> 4 </Side>
+		<Lengths> 4 4 4 4 </Lengths>
+		<Regularity> 1 </Regularity>
+		<Circumfalence> 16 </Circumfalence>
+		<Area> 16.000000 </Area>
+	</Quad>
+</Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Lengths> 4 5 6 </Lengths>
+		<Regularity> 0 </Regularity>
+		<Circumfalence> 15 </Circumfalence>
+		<Area> 0.000000 </Area>
+	</Triangle>
+	<Quad>
+		<Side> 4 </Side>
+		<Lengths> 3 4 5 5 </Lengths>
+		<Regularity> 0 </Regularity>
+		<Circumfalence> 18 </Circumfalence>
+		<Area> 0.000000 </Area>
+	</Quad>
+</Shape>
+<Shape>
+	<Pentagonal>
+<Shape>
+	<Pentagonal>
+		<Side> 5 </Side>
+		<Lengths> 6 6 6 6 6 </Lengths>
+		<Regularity> 1 </Regularity>
+		<Circumfalence> 30 </Circumfalence>
+		<Area> 18.000000 </Area>
+	</Pentagonal>
+	<Pentagonal>
+		<Side> 5 </Side>
+		<Lengths> 6 5 6 6 6 </Lengths>
+		<Regularity> 0 </Regularity>
+		<Circumfalence> 29 </Circumfalence>
+		<Area> 0.000000 </Area>
+	</Pentagonal>
+</Shape>
+<Shape>
+	<Quad>
+		<Side> 4 </Side>
+		<Lengths> 4 4 4 4 </Lengths>
+		<Regularity> 1 </Regularity>
+		<Circumfalence> 16 </Circumfalence>
+		<Area> 16.000000 </Area>
+	</Quad>
+</Shape>
+<Shape>
+	<Hexagonal>
+	<Hexagonal>
+	<Hexagonal>
+	<Hexagonal>
+	<Hexagonal>
+	<Hexagonal>
+	<Hexagonal>
+	<Hexagonal>
+	<Hexagonal>
+	<Hexagonal>
+	<Hexagonal>
+	<Hexagonal>
+	<Hexagonal>
+<Shape>
+	<Hexagonal>
+		<Side> 6 </Side>
+		<Lengths> 6 6 6 6 6 </Lengths>
+		<Regularity> 1 </Regularity>
+		<Circumfalence> 36 </Circumfalence>
+		<Area> 31.770000 </Area>
+	</Hexagonal>
+</Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Lengths> 4 5 6 </Lengths>
+		<Regularity> False </Regularity>
+		<Circumfalence> 15 </Circumfalence>
+		<Area> 0.000000 </Area>
+	</Triangle>
+</Shape>
+<Shape>
+	<Triangle>
+		<Side> 3 </Side>
+		<Lengths> 4 5 6 </Lengths>
+		<Regularity> False </Regularity>
+		<Circumfalence> 15 </Circumfalence>
+		<Area> 0.000000 </Area>
+	</Triangle>
+	<Quad>
+		<Side> 4 </Side>
+		<Lengths> 5 5 5 5 </Lengths>
+		<Regularity> True </Regularity>
+		<Circumfalence> 20 </Circumfalence>
+		<Area> 25.000000 </Area>
+	</Quad>
+	<Pentagonal>
+		<Side> 5 </Side>
+		<Lengths> 4 4 4 4 5 </Lengths>
+		<Regularity> False </Regularity>
+		<Circumfalence> 21 </Circumfalence>
+		<Area> 0.000000 </Area>
+	</Pentagonal>
+	<Hexagonal>
+		<Side> 6 </Side>
+		<Lengths> 6 6 6 6 6 </Lengths>
+		<Regularity> True </Regularity>
+		<Circumfalence> 36 </Circumfalence>
+		<Area> 31.770000 </Area>
+	</Hexagonal>
+</Shape>
